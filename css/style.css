@@ -1,0 +1,33 @@
+#backdrop {
+    background-color:red;
+
+}
+
+header {
+    background-color: blue;
+
+}
+
+.aside {
+    background-color: pink;
+
+}
+
+main {
+    background-color: purple;
+}
+
+footer {
+    background-color: yellow;
+}
+
+header, .aside {
+    height: 300px;
+    border: solid 2px black;
+
+}
+
+main, .promo {
+    height: 150px;
+    border: solid 2px black;
+}
