@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald&display=swap');
+
+#mainfont {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.jumbotron {
+    background-image: url('../img/cheers.jpg');
+    background-size: cover;
+    height: 70vh;
+    color: white;
+    
+}
+
+.bodytext {
+    font-family: 'Oswald', sans-serif;
+}
+
 #backdrop {
     background-color:red;
 
